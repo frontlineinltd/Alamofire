@@ -53,6 +53,8 @@ Alamofire is an HTTP networking library written in Swift.
 
 ## Write Requests Fast!
 
+manchincreditymabcfyinformationccc$$jsadfasdfkaskfasdfjkjksdafjkasfkf
+
 Alamofire's compact syntax and extensive feature set allow requests with powerful features like automatic retry to be written in just a few lines of code.
 
 ```swift
